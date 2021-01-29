@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently working on a team project for Family Promise Spokane
-
+- 🤔 &nbsp; Exploring new technologies and devoloping software solutions
+- 💼 &nbsp; Data Scientist and Machine Learning Engineer
+- 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence
